@@ -1,8 +1,0 @@
-"Specification_ID","Model_Family","Window_Size","Distribution","X_Transformation","X_Lag","Analysis_Set","Model_Label","Uses_X","Reestimation_Type","Primary_Flag"
-"fGARCH_TGARCH_X_w125_std_turnover_change_lag1","fGARCH-TGARCH-X",125,"std","turnover_change",1,"Window_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",FALSE
-"fGARCH_TGARCH_X_w200_ged_turnover_change_lag1","fGARCH-TGARCH-X",200,"ged","turnover_change",1,"Distribution_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",FALSE
-"fGARCH_TGARCH_X_w200_norm_turnover_change_lag1","fGARCH-TGARCH-X",200,"norm","turnover_change",1,"Distribution_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",FALSE
-"fGARCH_TGARCH_X_w200_std_sector_volume_change_lag1","fGARCH-TGARCH-X",200,"std","sector_volume_change",1,"X_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",FALSE
-"fGARCH_TGARCH_X_w200_std_turnover_change_lag1","fGARCH-TGARCH-X",200,"std","turnover_change",1,"Distribution_Sensitivity|Window_Sensitivity|X_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",TRUE
-"fGARCH_TGARCH_X_w200_std_turnover_change_lag2","fGARCH-TGARCH-X",200,"std","turnover_change",2,"X_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",FALSE
-"fGARCH_TGARCH_X_w250_std_turnover_change_lag1","fGARCH-TGARCH-X",250,"std","turnover_change",1,"Window_Sensitivity","TGARCH-X(1,1)",TRUE,"Sensitivity full re-estimation",FALSE
