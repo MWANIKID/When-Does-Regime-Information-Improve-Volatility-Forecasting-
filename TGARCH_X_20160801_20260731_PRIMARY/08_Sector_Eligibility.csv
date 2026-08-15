@@ -1,0 +1,12 @@
+"Sector","N_Observations","Eligible_Primary","Eligible_Any_Sensitivity"
+"Agriculture",2402,TRUE,TRUE
+"Automobiles and Accessories",932,TRUE,TRUE
+"Banking",2487,TRUE,TRUE
+"Commercial and Services",2487,TRUE,TRUE
+"Construction and Allied",1652,TRUE,TRUE
+"Energy and Petroleum",2487,TRUE,TRUE
+"Insurance",2487,TRUE,TRUE
+"Investment",2487,TRUE,TRUE
+"Investment Services",2463,TRUE,TRUE
+"Manufacturing and Allied",2487,TRUE,TRUE
+"Telecommunication and Technology",2487,TRUE,TRUE

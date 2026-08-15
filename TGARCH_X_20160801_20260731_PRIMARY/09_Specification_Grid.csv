@@ -1,0 +1,7 @@
+"Specification_ID","Model_Family","Window_Size","Distribution","X_Transformation","X_Lag","Analysis_Set","Model_Label","Uses_X","Reestimation_Type","Primary_Flag"
+"EWMA_w200_no_dist_no_x","EWMA",200,,,,"Primary","EWMA",FALSE,"Primary full estimation",TRUE
+"RollingVariance_w200_no_dist_no_x","RollingVariance",200,,,,"Primary","Historical variance",FALSE,"Primary full estimation",TRUE
+"fGARCH_TGARCH_w200_std_no_x","fGARCH-TGARCH",200,"std",,,"Primary","TGARCH(1,1)",FALSE,"Primary full estimation",TRUE
+"fGARCH_TGARCH_X_w200_std_turnover_change_lag1","fGARCH-TGARCH-X",200,"std","turnover_change",1,"Primary","TGARCH-X(1,1)",TRUE,"Primary full estimation",TRUE
+"gjrGARCH_w200_std_no_x","gjrGARCH",200,"std",,,"Primary","GJR-GARCH(1,1)",FALSE,"Primary full estimation",TRUE
+"sGARCH_w200_std_no_x","sGARCH",200,"std",,,"Primary","GARCH(1,1)",FALSE,"Primary full estimation",TRUE
