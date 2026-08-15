@@ -1,0 +1,2 @@
+The run was not executed from a resolvable .py file, so an automatic source-code copy could not be made. Run this script with %run to bundle the exact source automatically.
+NameError("name '__file__' is not defined")
